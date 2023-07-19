@@ -1,0 +1,6 @@
+.color-box{
+    width: 220px;
+    height: 220px;
+    cursor: pointer;
+    border: 1px solid #eee;
+}
